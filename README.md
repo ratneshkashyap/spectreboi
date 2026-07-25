@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @spectreboi
-- 👀 I’m interested in Python, Java, A.I.
-- 🌱 I’m currently learning Python, Algorithm.
-- 💞️ I’m looking to collaborate on any type of project to learn.
-- 📫 How to reach me email me - ratneshkashyap1@outlook.com
+👋 Hi, I'm Ratnesh Kashyap
+
+Linux enthusiast | LTE Deployment Engineer | Telecom Software Testing | DevOps Learner
+
+🔹 Building Linux, Bash, Python, and Automation projects
+
+🔹 Learning Docker, Ansible, Kubernetes, and Cloud
+
+🔹 Passionate about Infrastructure Automation and DevOps
+
+📫 Contact: **[ratneshkashyap1@outlook.com](mailto:ratneshkashyap1@outlook.com)**
+
 
 <!---
 spectreboi/spectreboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
