@@ -1,12 +1,19 @@
-👋 Hi, I'm Ratnesh Kashyap
+# 👋 Hi, I'm Ratnesh 
 
-Linux enthusiast | LTE Deployment Engineer | Telecom Software Testing | DevOps Learner
+Linux | Python | Automation | DevOps | Telecom Software Testing
 
-🔹 Building Linux, Bash, Python, and Automation projects
+🔹 Building automation tools with Linux, Bash, and Python
 
-🔹 Learning Docker, Ansible, Kubernetes, and Cloud
+🔹 Developing hands-on projects using Docker, Ansible, and Kubernetes
 
-🔹 Passionate about Infrastructure Automation and DevOps
+🔹 Interested in Infrastructure Automation, CI/CD, and Cloud Engineering
+## 📚 Publications
+
+**Recent Advancement in Education System Using AR Tools: A New Perspective**
+
+Published in the Proceedings of ACM ICIMMI 2022
+
+DOI: https://doi.org/10.1145/3590837.3590869
 
 📫 Contact: **[ratneshkashyap1@outlook.com](mailto:ratneshkashyap1@outlook.com)**
 
